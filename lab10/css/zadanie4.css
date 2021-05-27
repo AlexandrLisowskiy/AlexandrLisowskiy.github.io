@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+}
+
+aside {
+    width: 20vh;
+    background: rgb(87, 87, 87);
+}
+
+main {
+    flex: 1;
+    background: rgb(214, 214, 214);
+}
